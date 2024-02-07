@@ -1,13 +1,11 @@
-## zjr的博客
-
-欢迎来到张家瑞的个人主页。
+欢迎来到ZJR的个人主页。
 
 
 ## 个人简介
 
 - sdszftxxzjr，学习OI即将两年半的新手OIER。
   
-- 洛谷用户`__zjr__`
+- 洛谷用户`__zjr__`，[传送门](https://www.luogu.com.cn/user/771893)
 
 - 页面访问量：[![Page Views Count](https://badges.toozhao.com/badges/01HDDNN33XTGCXB40KZ5RRZP3H/green.svg)](https://badges.toozhao.com/stats/01HDDNN33XTGCXB40KZ5RRZP3H "Get your own page views count badge on badges.toozhao.com")
 
@@ -32,6 +30,13 @@
 
 
 
-## 分享
+## 其他
 
-- 在个人博客中
+[算法](https://zjr9898.github.io/Algorithms)
+
+[题解](https://zjr9898.github.io/Solution)
+
+[图书馆](https://zjr9898.github.io/Books)
+
+[数据库](https://zjr9898.github.io/Data)
+
