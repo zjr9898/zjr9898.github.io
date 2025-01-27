@@ -3,7 +3,7 @@
 
 ## 个人简介
 
-- sdszftxxzjr，学习OI即将两年半的新手OIER。
+- sdszftxxzjr，OIER，非常菜。
   
 - 洛谷用户`__zjr__`，[传送门](https://www.luogu.com.cn/user/771893)
 
@@ -39,4 +39,3 @@
 [图书馆](https://zjr9898.github.io/Books)
 
 [数据库](https://zjr9898.github.io/Data)
-
