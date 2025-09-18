@@ -3,7 +3,9 @@
 
 ## 个人简介
 
-- sdszftxxzjr，OIER，非常菜。
+- ~sdszftxxzjr，OIER，非常菜~。
+
+- upd：已退役 
   
 - 洛谷用户`__zjr__`，[传送门](https://www.luogu.com.cn/user/771893)
 
