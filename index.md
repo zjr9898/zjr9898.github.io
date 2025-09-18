@@ -4,7 +4,9 @@
 
 - ~sdszftxxzjr，OIER，非常菜~。
 
-- upd：已退役 
+- upd：已退役
+
+- [好好学习！！！](https://www.bilibili.com/video/BV1iKhYzjEi8)
   
 - 洛谷用户`__zjr__`，[传送门](https://www.luogu.com.cn/user/771893)
 
