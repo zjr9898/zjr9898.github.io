@@ -9,16 +9,7 @@
   
 - 洛谷用户`__zjr__`，[传送门](https://www.luogu.com.cn/user/771893)
 
-- 页面访问量：[![Page Views Count](https://badges.toozhao.com/badges/01HDDNN33XTGCXB40KZ5RRZP3H/green.svg)](https://badges.toozhao.com/stats/01HDDNN33XTGCXB40KZ5RRZP3H "Get your own page views count badge on badges.toozhao.com")
-
-- 欢迎来访问我的洛谷小号(~~一部分~~)：
-
-```
-977878
-1157576
-1077873
-1118051
-```
+- B站用户`szbjr`，[传送门](https://space.bilibili.com/3546754607745681)
 
 ## 大事记
 
@@ -41,3 +32,5 @@
 [图书馆](https://zjr9898.github.io/Books)
 
 [数据库](https://zjr9898.github.io/Data)
+
+[工具]
