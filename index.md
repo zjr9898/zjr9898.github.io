@@ -32,6 +32,8 @@
 
 ## 其他
 
+[友链](https://zjr9898.github.io/Friends)
+
 [算法](https://zjr9898.github.io/Algorithms)
 
 [题解](https://zjr9898.github.io/Solution)
@@ -40,4 +42,4 @@
 
 [数据库](https://zjr9898.github.io/Data)
 
-[工具]
+[工具](https://zjr9898.github.io/Tools)
