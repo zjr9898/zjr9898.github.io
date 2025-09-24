@@ -1,4 +1,4 @@
-推荐使用zlib，什么书都有（需要vpn）
+推荐使用zlib，什么书都有（需要vpn）[链接](https://zh.z-library.sk/)
 
 [返回主页](https://zjr9898.github.io/)
 
