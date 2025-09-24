@@ -1,5 +1,7 @@
 欢迎来到ZJR的个人主页。
 
+访问量：![count](https://s01.flagcounter.com/count2/vnI1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_100/viewers_0/labels_0/pageviews_1/flags_0/percent_0)
+
 ## 个人简介
 
 - ~sdszftxxzjr，OIER，非常菜~。
