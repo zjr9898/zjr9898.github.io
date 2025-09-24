@@ -1,4 +1,4 @@
-欢迎来到ZJR的个人主页。
+:-)欢迎来到ZJR的个人主页^0^ ^0^ ^0^。
 
 ![count](https://s01.flagcounter.com/count2/vnI1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_100/viewers_0/labels_0/pageviews_1/flags_0/percent_0)
 
@@ -7,6 +7,8 @@
 - 原sdszftxxzjr，原OIER，非常菜。
 
 - upd：已退役
+  
+- 爱好：见习
 
 - [好好学习！！！](https://www.bilibili.com/video/BV1iKhYzjEi8)
   
@@ -24,7 +26,9 @@
 
 - 2023.11.04 通过300，绿题破60
 
+- 2025.09.22 桃操被管制
 
+- 2025.09.24 对个人主页进行大规模修正
 
 ## 其他
 
