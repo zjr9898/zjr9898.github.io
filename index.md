@@ -8,7 +8,7 @@
 
 - upd：已退役
   
-- 爱好：见习
+- 爱好：间隙
 
 - [好好学习！！！](https://www.bilibili.com/video/BV1iKhYzjEi8)
   
