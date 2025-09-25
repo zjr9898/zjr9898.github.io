@@ -1,6 +1,6 @@
 :-)欢迎来到ZJR的个人主页^0^ ^0^ ^0^。
 
-[点击获取Acwing资源](https://zjr9898.github.io/acwing.md)
+[点击获取Acwing资源](https://mp.weixin.qq.com/s/i6yMw_tZRMDZhutDeSVt2Q)
 
 ![count](https://s01.flagcounter.com/count2/vnI1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_100/viewers_0/labels_0/pageviews_1/flags_0/percent_0)
 
