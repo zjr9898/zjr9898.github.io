@@ -8,7 +8,7 @@
 
 - upd：已退役
   
-- 爱好：间隙
+- 爱好：列宪
 
 - [好好学习！！！](https://www.bilibili.com/video/BV1iKhYzjEi8)
   
