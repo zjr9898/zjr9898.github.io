@@ -2,6 +2,8 @@
 
 ## 关于本网站
 
+![图片](https://raw.githubusercontent.com/zjr9898/zjr9898.github.io/refs/heads/main/Photos/mmexport1760658203999.jpg)
+
 zjr的个人主页。
 
 感谢您对本项目的关注与支持。
