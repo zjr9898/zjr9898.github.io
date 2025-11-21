@@ -7,3 +7,5 @@
 # 见证
 
 [《观剑辞》](https://zjr9898.github.io/Blogs/Politics/Sword)
+
+[《泰灵清栋》](https://zjr9898.github.io/Blogs/Politics/Dianxuan)
