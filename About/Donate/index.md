@@ -9,3 +9,5 @@
 买到之后必定感谢大家！
 
 谢谢大家支持！
+
+![图](https://raw.githubusercontent.com/zjr9898/zjr9898.github.io/refs/heads/main/Photos/IMG_20251210_193641.png)
