@@ -15,3 +15,7 @@ zjr的个人主页。
 ## 关于开发者
 
 ex_oier，曾获得NOIP一等奖。文化课菜鸡。
+
+## 支持开发者
+
+[捐赠](https://zjr9898.github.io/About/Donate)
