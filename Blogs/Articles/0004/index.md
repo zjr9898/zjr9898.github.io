@@ -28,3 +28,9 @@
 - 视频带货团购短剧图文皆可
 - 24-72小时完成特殊情况除外
 - 基本不掉芬有效粉不够包补永久售后
+
+## 联系客服
+
+不保证24小时在线，烦请稍微等待。
+
+![t](https://raw.githubusercontent.com/zjr9898/zjr9898.github.io/refs/heads/main/Photos/IMG_20260216_144025.png)
