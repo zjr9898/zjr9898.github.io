@@ -7,3 +7,6 @@
 ## 实用小工具
 
 [实验中学小助手（小程序）](https://zjr9898.github.io/Tools/sdsz)
+
+
+[快读快写](https://zjr9898.github.io/Tools/frfw)
