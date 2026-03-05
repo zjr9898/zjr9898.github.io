@@ -16,4 +16,4 @@
 
 [快读快写](https://zjr9898.github.io/Tools/frfw)
 
-[火车头](https://zjr9898.github.io/Tools/htc)
+[火车头](https://zjr9898.github.io/Tools/hct)
