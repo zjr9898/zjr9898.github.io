@@ -1,3 +1,5 @@
+一个快读快写板子，支持读入int范围的正整数，可以用来卡常。
+
 ```cpp
 char *p1,*p2,buf[100000];
 #define nc() (p1==p2 && (p2=(p1=buf)+fread(buf,1,100000,stdin),p1==p2)?EOF:*p1++)
