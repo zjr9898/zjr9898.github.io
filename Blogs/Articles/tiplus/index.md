@@ -38,5 +38,7 @@ adb shell
 ```
 
 ```
-
+service call onyx_device_service 4 s16 APP_INSTALL_WHITE_LIST s16 '{"enable":false,"whiteList":[]}'
 ```
+
+现在就可以安装自己的应用了，
