@@ -68,3 +68,5 @@ service call onyx_device_service 4 s16 APP_INSTALL_WHITE_LIST s16 '{"enable":fal
 ## 下载相关应用
 
 [Activity Launcher](ActivityLauncher-2.2.1.apk)
+
+[Nova Launcher](nova.apk)
