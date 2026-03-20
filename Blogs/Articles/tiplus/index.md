@@ -64,3 +64,7 @@ service call onyx_device_service 4 s16 APP_INSTALL_WHITE_LIST s16 '{"enable":fal
 打开设置的搜索栏搜`多用户`，添加一个用户`访客`。
 
 将`机主`的知己学生清除数据（不能卸载更新），在`访客`页面登录知几学生，这样就可以在`机主`页面上网，在`访客`页面用知几。
+
+## 下载相关应用
+
+[Activity Launcher](zjr9898.github.io/Blogs/Articles/tiplus/ActivityLauncher-2.2.1.apk)
